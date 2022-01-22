@@ -1,0 +1,1 @@
+export const WRONG_LOGIN = 'No user found with this email and password'
